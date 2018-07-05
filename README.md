@@ -1,2 +1,2 @@
 # java-toolbox
-A collection of pure Java utils
+A collection of Java utils
